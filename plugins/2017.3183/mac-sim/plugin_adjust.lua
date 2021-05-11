@@ -13,6 +13,7 @@ end
 
 adjust.addSessionCallbackParameter = showWarning
 adjust.addSessionPartnerParameter = showWarning
+adjust.appTrackingAuthorizationStatus = showWarning
 adjust.appWillOpenUrl = showWarning
 adjust.create = showWarning
 adjust.disableThirdPartySharing = showWarning
@@ -31,6 +32,7 @@ adjust.resetSessionPartnerParameters = showWarning
 adjust.sendFirstPackages = showWarning
 adjust.setAttributionListener = showWarning
 adjust.setDeferredDeeplinkListener = showWarning
+adjust.setConversionValueUpdatedListener = showWarning
 adjust.setEnabled = showWarning
 adjust.setEventTrackingFailureListener = showWarning
 adjust.setEventTrackingSuccessListener = showWarning
@@ -38,9 +40,13 @@ adjust.setOfflineMode = showWarning
 adjust.setPushToken = showWarning
 adjust.setSessionTrackingFailureListener = showWarning
 adjust.setSessionTrackingSuccessListener = showWarning
+adjust.trackAdRevenue = showWarning
 adjust.trackAppStoreSubscription = showWarning
 adjust.trackEvent = showWarning
+adjust.trackMeasurementConsent = showWarning
 adjust.trackPlayStoreSubscription = showWarning
+adjust.trackThirdPartySharing = showWarning
+adjust.updateConversionValue = showWarning
 
 -------------------------------------------------------------------------------
 -- END
